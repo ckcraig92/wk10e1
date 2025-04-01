@@ -1,4 +1,4 @@
-import java.utl.Scanner;
+import java.utl.Scanner; //import scanner
 
 class Main
 
